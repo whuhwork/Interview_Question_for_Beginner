@@ -1,9 +1,3 @@
-<div align=center>
-
-![](/assets/images/tech_interview_main.png)
-
-</div>
-
 # Technical Interview Guidelines for Beginners
 
 <div align=center>
